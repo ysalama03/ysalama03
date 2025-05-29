@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ysalama03
-- 👀 I’m interested in web developement & game developement
+- 👀 I’m interested in web developement, cybersecurity, & AI
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on anything really
 - 📫 How to reach me: yusufsalama03@gmail.com
